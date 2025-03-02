@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/for-driving-enthusiasts</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/rucFQbxnKhA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Driving Enthusiasts | KMJ TIRE</video:title>
+      <video:description>Find the best performance tires for driving enthusiasts in Calgary.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=rucFQbxnKhA</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/rucFQbxnKhA</video:player_loc>
+      <video:publication_date>2025-02-27</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/mobile-tire-service</loc>
+    <video:video>
+      <video:thumbnail_loc>https://vimeo.com/video/904881779/thumbnail.jpg</video:thumbnail_loc>
+      <video:title>Mobile Tire Service | KMJ TIRE</video:title>
+      <video:description>Convenient mobile tire service in Calgary.</video:description>
+      <video:content_loc>https://player.vimeo.com/video/904881779?h=8e068dd10c</video:content_loc>
+      <video:player_loc>https://player.vimeo.com/video/904881779?h=8e068dd10c</video:player_loc>
+      <video:publication_date>2025-02-27</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/falken-tires-in-calgary</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Rmpd9XmYo94/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Falken Tires in Calgary | KMJ TIRE</video:title>
+      <video:description>Discover the best Falken tires for your vehicle.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Rmpd9XmYo94</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/Rmpd9XmYo94</video:player_loc>
+      <video:publication_date>2025-02-26</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/hankook-tires-in-calgary</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/wL8r2qAhpeg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Hankook Tires in Calgary | KMJ TIRE</video:title>
+      <video:description>Check out our Hankook tire selection for Calgary roads.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=wL8r2qAhpeg</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/wL8r2qAhpeg</video:player_loc>
+      <video:publication_date>2025-02-26</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/michelin-tires-in-calgary</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/0HOa069RuBo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Michelin Tires in Calgary | KMJ TIRE</video:title>
+      <video:description>Explore Michelin tires for superior performance in Calgary.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=0HOa069RuBo</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/0HOa069RuBo</video:player_loc>
+      <video:publication_date>2025-02-25</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/ev-tires-in-calgary</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/wh4g5xhjVYU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>EV Tires in Calgary | KMJ TIRE</video:title>
+      <video:description>The best EV tires for electric cars in Calgary.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=wh4g5xhjVYU</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/wh4g5xhjVYU</video:player_loc>
+      <video:publication_date>2025-02-23</video:publication_date>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://calgaryrimandtire.ca/toyo-tires-in-calgary</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/8zKn-5or-7M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Toyo Tires in Calgary | KMJ TIRE</video:title>
+      <video:description>Learn about Toyo tire options for Calgary roads.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=8zKn-5or-7M</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/8zKn-5or-7M</video:player_loc>
+      <video:publication_date>2025-02-23</video:publication_date>
+    </video:video>
+  </url>
+
+</urlset>
